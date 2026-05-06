@@ -1,6 +1,6 @@
 {
-  "name": "SISTPRO - Analista de Apostas",
-  "description": "Sistema profissional de análise esportiva baseado em dados, probabilidade e leitura de mercado para Futebol, Basquete, Vôlei, Tênis e Tênis de Mesa. Configurado para deploy no Netlify.",
+  "name": "SISTEMA PRO - Analista de Apostas",
+  "description": "Sistema profissional de análise esportiva baseado em dados, probabilidade e leitura de mercado para Futebol, Basquete, Vôlei, Tênis e Tênis de Mesa.",
   "requestFramePermissions": [],
   "majorCapabilities": []
 }
